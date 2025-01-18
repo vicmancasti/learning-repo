@@ -1,1 +1,2 @@
 Hello, I'm greeting from local repository.
+Hello, learning Git is Fun!
