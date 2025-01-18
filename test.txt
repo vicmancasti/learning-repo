@@ -1,2 +1,3 @@
 Hello, I'm greeting from local repository.
 Hello, learning Git is Fun!
+I'm planning to start a new course on Git.
